@@ -1,5 +1,5 @@
-
-/* 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+  /* 
 
     You can write your own styles here...
     
@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
